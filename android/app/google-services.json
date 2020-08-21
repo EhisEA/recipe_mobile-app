@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "562703812171",
+    "firebase_url": "https://addmob-c9577.firebaseio.com",
+    "project_id": "addmob-c9577",
+    "storage_bucket": "addmob-c9577.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562703812171:android:5e01f6f0e36db7edfd2fce",
+        "android_client_info": {
+          "package_name": "com.example.ad_mob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562703812171-hsr1mne9ivlid3g51jfg54u5ftggc4jq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ad_mob",
+            "certificate_hash": "904679438ae0f4b85004765524fd7714e73d8ec8"
+          }
+        },
+        {
+          "client_id": "562703812171-r1tlvrjoq667c70j8ism4g76vmofiveg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3K-Yw8uWu5s_6SciO3QMBvK1iq5C85QI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562703812171-r1tlvrjoq667c70j8ism4g76vmofiveg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2847477557757337~3549794511"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562703812171:android:43825330f00682f0fd2fce",
+        "android_client_info": {
+          "package_name": "com.example.recipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562703812171-bjftramd0jd98vsdmcftm83clj8vatvg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recipe",
+            "certificate_hash": "904679438ae0f4b85004765524fd7714e73d8ec8"
+          }
+        },
+        {
+          "client_id": "562703812171-r1tlvrjoq667c70j8ism4g76vmofiveg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3K-Yw8uWu5s_6SciO3QMBvK1iq5C85QI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562703812171-r1tlvrjoq667c70j8ism4g76vmofiveg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
