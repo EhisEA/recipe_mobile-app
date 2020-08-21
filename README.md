@@ -8,5 +8,5 @@ this is a mobile app that work with both android and ios it help users search fo
 
 <img src="https://github.com/EhisEA/recipe_mobile-app/blob/master/images/Screenshot_1597995066.png">
 
-<img src="https://github.com/EhisEA/recipe_mobile-app/blob/master/images/Screenshot_1597995082.png">
+<img src="https://github.com/EhisEA/recipe_mobile-app/blob/master/images/Screenshot_1597995082.png" width=500>
 
