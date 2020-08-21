@@ -1,16 +1,12 @@
 # recipe
 
-A new Flutter project.
+this is a mobile app that work with both android and ios it help users search for recipes and show the ingredent for making the recipe the app also make available the link to the chefs website. to avail it user the opportunity to make extensive research on the recipe.
 
-## Getting Started
+#### App images
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/EhisEA/recipe_mobile-app/blob/master/images/Screenshot_1597995044.png">
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/EhisEA/recipe_mobile-app/blob/master/images/Screenshot_1597995066.png">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="https://github.com/EhisEA/recipe_mobile-app/blob/master/images/Screenshot_1597995082.png">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
